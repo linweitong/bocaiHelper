@@ -87,5 +87,4 @@
   * [更衣柜配置](chang-guan-ji-chu-pei-zhi/geng-yi-gui-pei-zhi.md)
   * [商品配置](chang-guan-ji-chu-pei-zhi/shang-pin-pei-zhi.md)
 * [会员端活动报名](hui-yuan-duan-huo-dong-bao-ming.md)
-* [如何配置二代锁](ru-he-pei-zhi-er-dai-suo%20%281%29.md)
 
