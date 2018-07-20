@@ -2,7 +2,7 @@
 
 会员预约》》失约列表界面，选择要启用失约的会员，点击批量启用即可
 
-![](../.gitbook/assets/1%20%2832%29.png)
+![](../.gitbook/assets/1%20%2833%29.png)
 
-![](../.gitbook/assets/2%20%2842%29.png)
+![](../.gitbook/assets/2%20%2843%29.png)
 

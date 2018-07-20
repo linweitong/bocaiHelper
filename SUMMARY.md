@@ -87,4 +87,6 @@
   * [更衣柜配置](chang-guan-ji-chu-pei-zhi/geng-yi-gui-pei-zhi.md)
   * [商品配置](chang-guan-ji-chu-pei-zhi/shang-pin-pei-zhi.md)
 * [会员端活动报名](hui-yuan-duan-huo-dong-bao-ming.md)
+* [客户常见问题](ke-hu-chang-jian-wen-ti/README.md)
+  * [教练在app上看不到相应的会员](ke-hu-chang-jian-wen-ti/jiao-lian-zai-app-shang-kan-bu-dao-xiang-ying-de-hui-yuan.md)
 

@@ -4,7 +4,7 @@
 
 在会员签到页面输入会员的卡号，姓名，手机号或者刷卡等方式，点击签到 或者enter键签到
 
-![](../.gitbook/assets/1%20%2838%29.png)
+![](../.gitbook/assets/1%20%2839%29.png)
 
 ![](../.gitbook/assets/11.png)
 
