@@ -10,7 +10,7 @@
   * [会员导入](hui-yuan-guan-li/hui-yuan-dao-ru.md)
 * [菠菜健身](bo-cai-jian-shen.md)
 * [商品管理](shang-pin-guan-li/README.md)
-  * [商品录入](shang-pin-guan-li/shang-pin-lu-ru.md)
+  * [商品录入](shang-pin-guan-li/merchdiseload.md)
   * [商品购买](shang-pin-guan-li/shang-pin-gou-mai.md)
   * [商品退单](shang-pin-guan-li/shang-pin-tui-dan.md)
   * [储值卡 消费商品](shang-pin-guan-li/chu-zhi-qia-xiao-fei-shang-pin.md)
